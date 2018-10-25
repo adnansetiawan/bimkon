@@ -137,6 +137,16 @@
     <AndroidResource Include="Resources\drawable-xhdpi\brief.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\brief.png" />
     <AndroidResource Include="Resources\drawable-xxxhdpi\brief.png" />
+    <AndroidResource Include="Resources\drawable\scaledSplashScreen.xml" />
+    <AndroidResource Include="Resources\drawable-hdpi\scaledSplashScreen.xml" />
+    <AndroidResource Include="Resources\drawable-xhdpi\scaledSplashScreen.xml" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\scaledSplashScreen.xml" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\scaledSplashScreen.xml" />
+    <AndroidResource Include="Resources\drawable\screen.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\screen.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\screen.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\screen.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\screen.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />
